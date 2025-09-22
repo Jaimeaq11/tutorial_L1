@@ -6,5 +6,4 @@ public class tutorial {
 		// TODO Auto-generated method stub
 
 	}
-
 }
